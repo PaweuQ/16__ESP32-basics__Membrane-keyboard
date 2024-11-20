@@ -1,2 +1,2 @@
-# 16__ESP32-basics__Membrane-keyboard
+# Klawiatura membranowa
 Setup code for membrane keyboard
